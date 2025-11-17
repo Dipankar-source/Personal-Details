@@ -138,10 +138,28 @@ I love experimenting, learning continuously, and turning ideas into impactful pr
 ---
 
 
-### 🔝 Top Contributed Repo  
-<img src="https://github-contributor-stats.vercel.app/api?username=Dipankar-source&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
+### 🔝 Top Contributed Repositories  
+
+<div align="center">
+
+<img src="https://cdn-icons-png.flaticon.com/512/9068/9068678.png" width="60" />
+
+<p>
+Here are some of my most active and impactful contributions.<br>
+These repositories highlight my work in MERN, AI, and backend systems.
+</p>
+
+<img src="https://github-contributor-stats.vercel.app/api?username=Dipankar-source&limit=5&theme=radical&combine_all_yearly_contributions=true" />
+
+<br><br>
+
+<img src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png" width="40" />
+<p><i>Continuously contributing, improving, and building meaningful projects 🚀</i></p>
+
+</div>
 
 ---
+
 
 <!-- <img src="https://visitcount.itsvg.in/api?id=Dipankar-source&icon=0&color=0"/> -->
 
