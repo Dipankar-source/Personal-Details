@@ -41,32 +41,58 @@ I love experimenting, learning continuously, and turning ideas into impactful pr
 
 ## 📌 Quick Info  
 
-<table align="center">
+<div align="center">
+
+<table>
   <tr>
-    <td><b>🔭 Working on</b></td>
-    <td>CareerNexus (AI-powered student platform)</td>
+    <td align="center" width="250">
+      <img src="https://skillicons.dev/icons?i=project" width="50" />
+      <h3>Working On</h3>
+      <p>🚀 Building <b>CareerNexus</b><br>AI-powered student career platform</p>
+    </td>
+    <td align="center" width="250">
+      <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb" width="120" />
+      <h3>Tech Focus</h3>
+      <p>💻 MERN Stack &<br>AI-powered applications</p>
+    </td>
+    <td align="center" width="250">
+      <img src="https://skillicons.dev/icons?i=googlecloud,aws" width="90" />
+      <h3>Need Help With</h3>
+      <p>🧠 System design,<br>cloud fundamentals</p>
+    </td>
+    <td align="center" width="250">
+      <img src="https://skillicons.dev/icons?i=music" width="50" />
+      <h3>Fun Fact</h3>
+      <p>⚡ I debug faster<br>with music 🎧</p>
+    </td>
   </tr>
+
   <tr>
-    <td><b>🤝 Collaboration</b></td>
-    <td>MERN & AI-based applications</td>
-  </tr>
-  <tr>
-    <td><b>🧠 Need help with</b></td>
-    <td>System design & cloud fundamentals</td>
-  </tr>
-  <tr>
-    <td><b>🌱 Learning</b></td>
-    <td>Advanced MERN & AI tools</td>
-  </tr>
-  <tr>
-    <td><b>💬 Ask me about</b></td>
-    <td>MERN Stack, APIs, Databases</td>
-  </tr>
-  <tr>
-    <td><b>⚡ Fun fact</b></td>
-    <td>I debug better with music 🎧</td>
+    <td align="center" width="250">
+      <img src="https://skillicons.dev/icons?i=github" width="50" />
+      <h3>Collaboration</h3>
+      <p>🤝 MERN, APIs,<br>AI-based projects</p>
+    </td>
+    <td align="center" width="250">
+      <img src="https://skillicons.dev/icons?i=python,tensorflow" width="110" />
+      <h3>Learning</h3>
+      <p>🌱 Advanced MERN,<br>AI & ML tools</p>
+    </td>
+    <td align="center" width="250">
+      <img src="https://skillicons.dev/icons?i=api" width="50" />
+      <h3>Ask Me About</h3>
+      <p>💬 MERN Stack,<br>APIs, Databases</p>
+    </td>
+    <td align="center" width="250">
+      <img src="https://skillicons.dev/icons?i=idea" width="50" />
+      <h3>Mindset</h3>
+      <p>🔥 Build → Break → Learn → Improve</p>
+    </td>
   </tr>
 </table>
+
+</div>
+
 
 ---
 
