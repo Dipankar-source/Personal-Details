@@ -65,15 +65,30 @@ I love experimenting, learning continuously, and turning ideas into impactful pr
 ---
 
 ## 💻 Tech Stack (Clean & Focused)  
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=000">  
-<img src="https://img.shields.io/badge/Node.js-6DA55F?style=plastic&logo=nodedotjs&logoColor=white">  
-<img src="https://img.shields.io/badge/Express.js-404d59?style=plastic&logo=express&logoColor=white">  
-<img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=000">  
-<img src="https://img.shields.io/badge/MongoDB-4ea94b?style=plastic&logo=mongodb&logoColor=white">  
-<img src="https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54">  
-<img src="https://img.shields.io/badge/AI%2FML-000?style=plastic&logo=tensorflow&logoColor=yellow">  
-<img src="https://img.shields.io/badge/Git-F05033?style=plastic&logo=git&logoColor=white">  
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=000">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-6DA55F?style=plastic&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/Express.js-404d59?style=plastic&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=000">
+<img src="https://img.shields.io/badge/MongoDB-4ea94b?style=plastic&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=firebase&logoColor=black">
+<img src="https://img.shields.io/badge/Redux-764ABC?style=plastic&logo=redux&logoColor=white">
+<img src="https://img.shields.io/badge/JWT-000?style=plastic&logo=jsonwebtokens&logoColor=white">
+<img src="https://img.shields.io/badge/Socket.io-000000?style=plastic&logo=socketdotio&logoColor=white">
+<img src="https://img.shields.io/badge/Vite-646CFF?style=plastic&logo=vite&logoColor=white">
+
+<img src="https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54">
+<img src="https://img.shields.io/badge/AI%2FML-000?style=plastic&logo=tensorflow&logoColor=yellow">
+<img src="https://img.shields.io/badge/Numpy-013243?style=plastic&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/Matplotlib-006400?style=plastic&logo=python&logoColor=white">
+
+<img src="https://img.shields.io/badge/Git-F05033?style=plastic&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-000000?style=plastic&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white">
+<img src="https://img.shields.io/badge/Render-46E3B7?style=plastic&logo=render&logoColor=white">
+<img src="https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white">
+
 
 ---
 
