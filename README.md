@@ -1,7 +1,25 @@
 <div align="left">
 
-# 👋 Hi, I'm **Dipankar Barik**
-### B.Tech CSE Student • MERN Stack Developer • AI Enthusiast  
+<div align='center'>
+<!-- Main Icon -->
+<img src="https://cdn-icons-png.flaticon.com/512/4712/4712101.png" width="110" />
+
+<h1 align="center"><b>👋 Hi, I'm Dipankar Barik</b></h1>
+
+<h3>B.Tech CSE Student • MERN Stack Developer • AI Enthusiast</h3>
+
+<br>
+
+<!-- Small intro line -->
+<p align="center">
+⚡ Passionate about building impactful web applications, exploring AI technologies,  
+and developing platforms like <b>CareerNexus</b> that make learning & career growth easier.
+</p>
+
+<!-- Divider animation -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+</div>
 
 
 ## 🌐 Socials  
@@ -23,7 +41,8 @@
 </p>
 
 
----
+<!-- Divider animation -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ## 🚀 About Me  
 A passionate **MERN Stack Developer** dedicated to building clean, efficient,  
@@ -37,7 +56,8 @@ designed to simplify learning, networking, and academic growth.
 
 I love experimenting, learning continuously, and turning ideas into impactful projects.
 
----
+<!-- Divider animation -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ## 📌 Quick Info  
 
@@ -94,7 +114,8 @@ I love experimenting, learning continuously, and turning ideas into impactful pr
 </div>
 
 
----
+<!-- Divider animation -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 <!-- Snake Game Repo View -->
 
@@ -117,7 +138,8 @@ I love experimenting, learning continuously, and turning ideas into impactful pr
   <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,linux" />
 </div>
 
----
+<!-- Divider animation -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ## 📊 GitHub Stats  
 <div align='center'>
@@ -135,7 +157,8 @@ I love experimenting, learning continuously, and turning ideas into impactful pr
 
 </div>
 
----
+<!-- Divider animation -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 
 ### 🔝 Top Contributed Repositories  
@@ -158,7 +181,8 @@ These repositories highlight my work in MERN, AI, and backend systems.
 
 </div>
 
----
+<!-- Divider animation -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 
 <!-- <img src="https://visitcount.itsvg.in/api?id=Dipankar-source&icon=0&color=0"/> -->
