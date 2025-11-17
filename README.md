@@ -63,10 +63,18 @@ Currently working on **CareerNexus**, an AI-powered student & career platform.
 ---
 
 ## 📊 GitHub Stats  
+<div align='center'>
 <img src="https://github-readme-stats.vercel.app/api?username=Dipankar-source&theme=monokai&hide_border=false&include_all_commits=true&count_private=true" height="165"/>  
 <img src="https://nirzak-streak-stats.vercel.app/?user=Dipankar-source&theme=monokai&hide_border=false" height="165"/>  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipankar-source&theme=monokai&hide_border=false&layout=compact" height="165"/>
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dipankar-source&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dipankar-source&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dipankar-source&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dipankar-source&theme=radical">
+<!-- <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dipankar-source&theme=radical&utcOffset=8"> -->
 
+
+</div>
 ---
 
 <!-- Snake Game Repo View -->
