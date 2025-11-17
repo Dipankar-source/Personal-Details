@@ -67,8 +67,8 @@ I love experimenting, learning continuously, and turning ideas into impactful pr
 
 <div align='left'>
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dipankar-source&theme=radical">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dipankar-source&theme=radical">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipankar-source&theme=monokai&hide_border=false&layout=compact" height="165"/>
+  <!-- <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dipankar-source&theme=radical"> -->
   <!-- <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dipankar-source&theme=radical&utcOffset=8"> -->
 </div>
 
