@@ -1,6 +1,26 @@
-## 💫 About Me:
-🔭 I’m currently working on<br><br>Building CareerNexus, a professional networking + learning platform with AI-based mark-sheet verification, tutorials, reels for etiquette, and a student-friendly study ecosystem<br><br>Improving my skills in MERN stack and full-stack development<br><br>🤝 I’m looking to collaborate on<br><br>MERN stack projects<br><br>Open-source tools related to AI, EdTech, or developer productivity<br><br>Real-world applications that require scalable backend systems<br><br>🧠 I’m looking for help with<br><br>Advanced system design<br><br>Cloud deployment (AWS, Docker, CI/CD pipelines)<br><br>Improving UI/UX for scalable web apps<br><br>🌱 I’m currently learning<br><br>Next.js, Advanced React Patterns<br><br>TypeScript<br><br>Microservices & Scalable APIs<br><br>AI integrations in modern web apps<br><br>💬 Ask me about<br><br>MERN stack development<br><br>Building production-ready web apps<br><br>Career guidance for freshers and tech students<br><br>APIs, authentication, and database design<br><br>⚡ Fun fact<br><br>I can debug other people’s code faster than my own 😄<br><br>I love creating platforms that make learning easier for students!
+## 🔭 I’m currently working on
 
+CareerNexus — an AI-powered learning and networking platform.
+
+## 🤝 I’m looking to collaborate on
+
+MERN, Next.js, and impactful EdTech projects.
+
+## 🧠 I’m looking for help with
+
+Improving system design and cloud deployment skills.
+
+## 🌱 I’m currently learning
+
+Next.js, TypeScript, and scalable architectures.
+
+## 💬 Ask me about
+
+MERN stack, APIs, and full-stack development.
+
+## ⚡ Fun fact
+
+I debug faster with music on! 🎧
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/techandbhakti/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dipankarbarik/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dipankarbarik2002@gmail.com) 
